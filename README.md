@@ -5,8 +5,11 @@
 > This is a REST API written using Node.js, Express, Knex and using MySQL. 
 > 
 > You can run the migration by type this in the terminal: 
+>
 > `npm run migrate` .
-> You can seeding the database by type this in the terminal: 
+>
+> You can seeding the database by type this in the terminal:
+> 
 > `npm run seed` .
 >
 * Documentation
