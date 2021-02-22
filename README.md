@@ -31,12 +31,12 @@
 >
 >4. `PATCH    /employees/{id}` : 
 >
->   ```Update a single employee by its ID number. should include a body with the item or items we need to update
->   (name, date_of_joining, department or salary).```
+>   ```Update a single employee by its ID number.```
+>     ```Should include a body with the item or items we need to update (name, date_of_joining, department or salary).```
 >
 >
 >5. `DELETE    /employees/{id}` : 
 >
->    delete an employee by its ID.
+>    ```delete an employee by its ID.```
 >
 
