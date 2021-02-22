@@ -19,7 +19,7 @@
 >1. `GET    /employees?page=[1]` : 
 >
 >
->   Retrieve a list of employees. ?page=[number of a page] is a parameter for pagination.
+>   ```Retrieve a list of employees. ?page=[number of a page] is a parameter for pagination.```
 >
 >
 >2. `GET    /employees/{id}` : 
